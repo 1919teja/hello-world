@@ -3,4 +3,4 @@
 devops is really awesome
  
  
- # this is great to learn
+ # this is great to learn. having fun with git
