@@ -31,12 +31,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
-  <h1> learning ansible with docker </h1>
-  
-  <h1> this is ismail  </h1>
-  
-  removed syntax error in jenkins 
-
+  checking the changes on 13-12-22
   
 </form>
